@@ -6,11 +6,14 @@
 
 ![](https://komarev.com/ghpvc/?username=aragui&color=green)
 
-<h3 align="center">Programming languages</h3>
+<h3 align="center">Languages</h3>
 
 ---
+<div align="center">
 
-
+| ![](https://github.com/Aragui/Aragui/blob/master/images/html-5.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/css-3.png?raw=true)  | ![](https://github.com/Aragui/Aragui/blob/master/images/js.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/dart.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/php.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/java.png?raw=true) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+</div>
 <!-- | JavaScript | Dart | PHP | Java |
 | :---: | :---: | :---: | :---: |
 |   |   |   |   | -->
@@ -18,6 +21,12 @@
 <h3 align="center">Frameworks</h3>
 
 ---
+<div align="center">
+
+| ![](https://github.com/Aragui/Aragui/blob/master/images/express2.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/react.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/next.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/flutter.png?raw=true) | ![](https://github.com/Aragui/Aragui/blob/master/images/laravel.png?raw=true) |
+| :---: | :---: | :---: | :---: | :---: |
+</div>
+
 
 <!-- | ExpressJs | ReactJs | NextJs | Flutter | Laravel |
 | :---: | :---: | :---: | :---: | :---: |
