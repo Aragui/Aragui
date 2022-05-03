@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, my name is <b style="font-size: 30px">Guillermo Aragón</b> 👋
+<small>Web & Mobile developer</small>
 
-<!--
-**Aragui/Aragui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Aragui](https://img.shields.io/badge/-Aragui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aragui/)](https://www.linkedin.com/in/aragui/)
+[![GitHub Aragui](https://img.shields.io/github/followers/Aragui?label=follow&style=social)](https://github.com/Aragui)
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=aragui&color=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Programming languages</h3>
+
+---
+
+
+<!-- | JavaScript | Dart | PHP | Java |
+| :---: | :---: | :---: | :---: |
+|   |   |   |   | -->
+
+<h3 align="center">Frameworks</h3>
+
+---
+
+<!-- | ExpressJs | ReactJs | NextJs | Flutter | Laravel |
+| :---: | :---: | :---: | :---: | :---: |
+| | | | | | -->
+
+
+
